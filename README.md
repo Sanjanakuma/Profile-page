@@ -1,4 +1,4 @@
-# ${\color{green} Profile\page}
+# ${\color{green} Profile\page}$
 
 # 📌 Objective
 - To build a simple, responsive personal profile webpage using basic web development technologies.
